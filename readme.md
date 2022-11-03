@@ -26,38 +26,6 @@ For install documentation, check each one:
 - [Solid](https://github.com/stash-ui/icons/tree/master/packages/solid)
 - [Editor](https://github.com/stash-ui/icons/tree/master/packages/editor)
 
-## Install
-
-Install one of the components from your command line.
-
-#### With yarn
-
-```sh
-yarn add @react-email/button
-```
-
-#### With npm
-
-```sh
-npm install @react-email/button
-```
-
-## Getting started
-
-Add the component to your email template. Include styles where needed.
-
-```jsx
-import { Button } from '@react-email/button';
-
-const Email = () => {
-  return (
-    <Button href="https://example.com" style={{ color: '#61dafb' }}>
-      Click me
-    </Button>
-  );
-};
-```
-
 ## Authors
 
 - Tiago Gerken ([@tgerken](https://twitter.com/tgerken)) - [Pingback](https://pingback.com)
