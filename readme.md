@@ -1,3 +1,5 @@
+![Stash Icons Cover](https://res.cloudinary.com/pingback/image/upload/v1667487739/stash-assets/stash-icons-cover_ay28jg.png)
+
 <div align="center"><strong>Stash Icons</strong></div>
 <div align="center">A gorgeous set of 24x24 icons.<br />Designed by the <a href="https://pingback.com">Pingback team</a>.</div>
 <br />
