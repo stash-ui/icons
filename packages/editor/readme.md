@@ -1,5 +1,5 @@
 <div align="center"><strong>@stash-ui/editor-icons</strong></div>
-<div align="center">Solid icons variation.</div>
+<div align="center">Editor icons variation.</div>
 <br />
 <div align="center">
 <a href="https://icons.stash-ui.com">Website</a> 
