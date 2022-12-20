@@ -1,0 +1,39 @@
+{
+  "name": "@stash-ui/react-native-regular-icons",
+  "private": false,
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "React Native Regular Icons Set",
+  "authors": [
+    "Tiago Gerken <gerken@getpingback.com>",
+    "Pedro Ladeira <pedro@getpingback.com>"
+  ],
+  "module": "dist/react-native-regular-icons.esm.js",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/",
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "generate-src": "generate-icons --file=X5DiJzGRQXCyEfBqocT235 --style=regular --platform=react-native",
+    "build": "rimraf dist && tsdx build --format es,cjs --entry src/index.tsx",
+    "watch": "rimraf dist && tsdx watch --format es,cjs --entry src/index.tsx",
+    "prepublishOnly": "npm run build"
+  },
+  "peerDependencies": {
+    "react": "^16.x || ^17.x || ^18.x",
+    "react-native": "^0.63.x || ^0.64.x || ^0.70.x",
+    "react-native-svg": "^12.x || ^13.x"
+  },
+  "devDependencies": {
+    "@stash-ui/generate-from-figma": "*",
+    "react": "^18.2.0",
+    "react-native": "^0.70.6",
+    "react-native-svg": "^13.6.0",
+    "tsdx": "0.14.0"
+  }
+}
