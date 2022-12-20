@@ -23,5 +23,5 @@ yarn-error.log*
 dist/
 
 # work in progress
+packages/generate-from-figma
 apps/website
-apps/generate-from-figma
