@@ -4,13 +4,13 @@ import { toTitleCase } from './utils/toTitleCase';
 
 import * as regularIcons from './icons/regular';
 
-export const Icon = ({ name, style, color = 'currentColor', ...props }: IIconProps) => {
+export const Icon = ({ name, variant, size, color = 'currentColor', ...props }: IIconProps) => {
   const renderIcon = () => {
     const iconName = `${toTitleCase(name)}Icon`;
 
-    if (style === 'regular') {
+    if (variant === 'regular') {
       const RegularIcon = regularIcons[iconName];
-      return <RegularIcon color={color} {...props} />;
+      return <RegularIcon color={color} size={size} {...props} />;
     }
   };
 

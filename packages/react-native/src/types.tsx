@@ -1,11 +1,12 @@
 export interface IIconProps {
   children?: never;
   color?: string;
+  size?: number;
   name: IconName;
-  style: IconStyle;
+  variant: IconVariants;
 }
 
-export declare type IconStyle = 'duotone' | 'light' | 'regular' | 'solid';
+export declare type IconVariants = 'duotone' | 'light' | 'regular' | 'solid';
 
 export declare type IconName =
   | 'angle-down'
