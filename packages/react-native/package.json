@@ -1,7 +1,7 @@
 {
   "name": "@stash-ui/react-native-icons",
   "private": false,
-  "version": "0.0.6",
+  "version": "0.0.7",
   "license": "MIT",
   "description": "React Native Icons Set",
   "authors": [
@@ -35,5 +35,6 @@
     "react-native": "^0.70.6",
     "react-native-svg": "^13.6.0",
     "tsdx": "0.14.0"
-  }
+  },
+  "gitHead": "df1672ec65e1a65b5bafd86801d3dedc3dc6ac54"
 }
