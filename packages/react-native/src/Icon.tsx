@@ -11,13 +11,9 @@ export const Icon = ({ name, variant, size, color = 'currentColor', ...props }: 
 
   const renderIcon = () => {
     const iconName = `${toTitleCase(name)}Icon`;
+    const Icon_ = variants[variant][iconName];
 
-    variants.regular.ArrowLeftLargeIcon
-
-    return React.cloneElement(variants[variant][iconName], {
-      size,
-      color,
-    });
+    return <Icon_ color={color} size={size} />;
   };
 
   return renderIcon();
