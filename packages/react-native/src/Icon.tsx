@@ -5,13 +5,19 @@ import { toTitleCase } from './utils/toTitleCase';
 import * as regularIcons from './icons/regular';
 
 export const Icon = ({ name, variant, size, color = 'currentColor', ...props }: IIconProps) => {
+  const variants = {
+    regular: regularIcons,
+  };
+
   const renderIcon = () => {
     const iconName = `${toTitleCase(name)}Icon`;
 
-    if (variant === 'regular') {
-      const RegularIcon = regularIcons[iconName];
-      return <RegularIcon color={color} size={size} {...props} />;
-    }
+    variants.regular.ArrowLeftLargeIcon
+
+    return React.cloneElement(variants[variant][iconName], {
+      size,
+      color,
+    });
   };
 
   return renderIcon();
