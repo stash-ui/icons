@@ -4,7 +4,7 @@ import { toTitleCase } from './utils/toTitleCase';
 
 import * as regularIcons from './icons/regular';
 
-export const Icon = ({ name, variant, size, color = 'currentColor', ...props }: IIconProps) => {
+const Icon = ({ name, variant, size, color }: IIconProps) => {
   const variants = {
     regular: regularIcons,
   };
@@ -18,3 +18,11 @@ export const Icon = ({ name, variant, size, color = 'currentColor', ...props }: 
 
   return renderIcon();
 };
+
+Icon.defaultProps = {
+  size: 24,
+  variant: 'regular',
+  color: 'currentColor',
+};
+
+export default Icon;

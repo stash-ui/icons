@@ -2,8 +2,8 @@ export interface IIconProps {
   children?: never;
   color?: string;
   size?: number;
-  name: IconName;
   variant: IconVariants;
+  name: IconName;
 }
 
 export declare type IconVariants = 'duotone' | 'light' | 'regular' | 'solid';
