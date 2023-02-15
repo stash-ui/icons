@@ -1,3 +1,4 @@
+export { IconProps } from './types';
 export { default as AttachmentIcon } from './AttachmentIcon';
 export { default as LinkIcon } from './LinkIcon';
 export { default as EditorDividerIcon } from './EditorDividerIcon';
@@ -38,3 +39,7 @@ export { default as ImageMinusIcon } from './ImageMinusIcon';
 export { default as ImageBanIcon } from './ImageBanIcon';
 export { default as ImagePlusIcon } from './ImagePlusIcon';
 export { default as ImageExclamationIcon } from './ImageExclamationIcon';
+export { default as CodeBlockIcon } from './CodeBlockIcon';
+export { default as CTAIcon } from './CTAIcon';
+export { default as EmbedIcon } from './EmbedIcon';
+export { default as ImageWideIcon } from './ImageWideIcon';

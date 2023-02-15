@@ -19,7 +19,7 @@
     "access": "public"
   },
   "scripts": {
-    "generate-src": "generate-icons --file=X5DiJzGRQXCyEfBqocT235 --style=duotone",
+    "generate-src": "generate-icons --file=X5DiJzGRQXCyEfBqocT235 --style=Duotone --platform=react",
     "build": "rimraf dist && tsdx build --format es,cjs --entry src/index.tsx",
     "watch": "rimraf dist && tsdx watch --format es,cjs --entry src/index.tsx",
     "prepublishOnly": "npm run build"

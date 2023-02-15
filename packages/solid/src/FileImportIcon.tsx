@@ -14,7 +14,6 @@ export const FileImportIcon = React.forwardRef<SVGSVGElement, IconProps>(
         ref={forwardedRef}
       >
         <path
-          opacity=".5"
           d="M13 17.5L10.5 15M13 17.5L15.5 15M13 17.5V16.4C13 14.1598 13 13.0397 12.564 12.184C12.1805 11.4314 11.5686 10.8195 10.816 10.436C9.96032 10 8.84021 10 6.6 10L4 10"
           stroke={color}
           strokeWidth="1.5"
@@ -26,7 +25,6 @@ export const FileImportIcon = React.forwardRef<SVGSVGElement, IconProps>(
           fill={color}
         />
         <path
-          opacity=".5"
           d="M18.8204 8.49999H15.5C14.9477 8.49999 14.5 8.05227 14.5 7.49999V4.17963C14.873 4.34939 15.1516 4.65155 15.4373 4.93724L18.0627 7.56273C18.3484 7.84842 18.6506 8.12696 18.8204 8.49999Z"
           fill={color}
         />

@@ -31,7 +31,6 @@ export const PaginationIcon = React.forwardRef<SVGSVGElement, IconProps>(
           strokeLinecap="round"
           strokeLinejoin="round"
         />
-        <rect opacity=".5" x="7" y="7" width="10" height="10" rx="3" fill={color} />
         <rect
           x="7"
           y="7"

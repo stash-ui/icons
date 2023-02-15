@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { IconProps } from './types';
 
-export const PencilIcon = React.forwardRef<SVGSVGElement, IconProps>(
+export const PencilWritingIcon = React.forwardRef<SVGSVGElement, IconProps>(
   ({ color = 'currentColor', ...props }, forwardedRef) => {
     return (
       <svg
@@ -26,4 +26,4 @@ export const PencilIcon = React.forwardRef<SVGSVGElement, IconProps>(
   }
 );
 
-export default PencilIcon;
+export default PencilWritingIcon;

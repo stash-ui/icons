@@ -1,3 +1,4 @@
+export { IconProps } from './types';
 export { default as SearchIcon } from './SearchIcon';
 export { default as SearchSplitIcon } from './SearchSplitIcon';
 export { default as LastUpdatesIcon } from './LastUpdatesIcon';
@@ -124,3 +125,13 @@ export { default as SubscriptionListIcon } from './SubscriptionListIcon';
 export { default as PinThumbtackIcon } from './PinThumbtackIcon';
 export { default as CommentsIcon } from './CommentsIcon';
 export { default as HandHoldingDollarIcon } from './HandHoldingDollarIcon';
+export { default as EmojiWinkIcon } from './EmojiWinkIcon';
+export { default as EmojiJoyIcon } from './EmojiJoyIcon';
+export { default as EmojiLaughIcon } from './EmojiLaughIcon';
+export { default as MicIcon } from './MicIcon';
+export { default as CamVideoIcon } from './CamVideoIcon';
+export { default as CamWebIcon } from './CamWebIcon';
+export { default as PlayBtnIcon } from './PlayBtnIcon';
+export { default as PencilSingleIcon } from './PencilSingleIcon';
+export { default as PaperClockIcon } from './PaperClockIcon';
+export { default as VersionIcon } from './VersionIcon';
