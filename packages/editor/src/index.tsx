@@ -21,6 +21,7 @@ export { default as ParagraphIcon } from './ParagraphIcon';
 export { default as QuotationIcon } from './QuotationIcon';
 export { default as TextIdentationRightIcon } from './TextIdentationRightIcon';
 export { default as TextIdentationLeftIcon } from './TextIdentationLeftIcon';
+export { default as ImageFitCenterIcon } from './ImageFitCenterIcon';
 export { default as ImageFitRightIcon } from './ImageFitRightIcon';
 export { default as ImageFitLeftIcon } from './ImageFitLeftIcon';
 export { default as ImageFitFullIcon } from './ImageFitFullIcon';
