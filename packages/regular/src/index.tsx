@@ -243,3 +243,4 @@ export { default as PlayBtnIcon } from './PlayBtnIcon';
 export { default as PencilSingleIcon } from './PencilSingleIcon';
 export { default as PaperClockIcon } from './PaperClockIcon';
 export { default as VersionIcon } from './VersionIcon';
+export { default as GoogleIcon } from './GoogleIcon';
