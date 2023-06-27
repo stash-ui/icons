@@ -196,6 +196,7 @@ export { default as FilterIcon } from './FilterIcon';
 export { default as ArticleIcon } from './ArticleIcon';
 export { default as EspiralBookIcon } from './EspiralBookIcon';
 export { default as GoogleDriveIcon } from './GoogleDriveIcon';
+export { default as GoogleIcon } from './GoogleIcon';
 export { default as EllipsisVIcon } from './EllipsisVIcon';
 export { default as EllipsisHIcon } from './EllipsisHIcon';
 export { default as SocialTwitterIcon } from './SocialTwitterIcon';
