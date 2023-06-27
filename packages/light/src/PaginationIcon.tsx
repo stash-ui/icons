@@ -14,8 +14,28 @@ export const PaginationIcon = React.forwardRef<SVGSVGElement, IconProps>(
         ref={forwardedRef}
       >
         <path d="M4 10L2 12 4 14M20 10L22 12 20 14" stroke={color} strokeLinecap="round" strokeLinejoin="round" />
-        <rect x="7" y="7" width="10" height="10" rx="3" stroke={color} strokeLinecap="round" strokeLinejoin="round" />
-        <rect x="7" y="7" width="10" height="10" rx="3" stroke={color} strokeLinecap="round" strokeLinejoin="round" />
+        <rect
+          x="7"
+          y="7"
+          width="10"
+          height="10"
+          rx="3"
+          fill={color}
+          stroke={color}
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+        <rect
+          x="7"
+          y="7"
+          width="10"
+          height="10"
+          rx="3"
+          fill={color}
+          stroke={color}
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
       </svg>
     );
   }

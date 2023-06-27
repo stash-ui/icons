@@ -13,7 +13,11 @@ export const CamWebIcon = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <circle cx="12" cy="10" r="6.5" stroke={color} strokeLinecap="round" strokeLinejoin="round" />
+        <circle cx="12" cy="10" r="6.5" fill={color} stroke={color} strokeLinecap="round" strokeLinejoin="round" />
+        <path
+          d="M16 10C16 12.2091 14.2091 14 12 14C9.79086 14 8 12.2091 8 10C8 7.79086 9.79086 6 12 6C14.2091 6 16 7.79086 16 10Z"
+          fill={color}
+        />
         <path
           d="M15.5 10C15.5 11.933 13.933 13.5 12 13.5V14.5C14.4853 14.5 16.5 12.4853 16.5 10H15.5ZM12 13.5C10.067 13.5 8.5 11.933 8.5 10H7.5C7.5 12.4853 9.51472 14.5 12 14.5V13.5ZM8.5 10C8.5 8.067 10.067 6.5 12 6.5V5.5C9.51472 5.5 7.5 7.51472 7.5 10H8.5ZM12 6.5C13.933 6.5 15.5 8.067 15.5 10H16.5C16.5 7.51472 14.4853 5.5 12 5.5V6.5Z"
           fill={color}
