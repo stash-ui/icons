@@ -19,6 +19,7 @@ export const PaginationAltIcon = React.forwardRef<SVGSVGElement, IconProps>(
           width="19"
           height="10"
           rx="3"
+          fill={color}
           stroke={color}
           strokeWidth="1.5"
           strokeLinecap="round"
