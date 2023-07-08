@@ -270,3 +270,6 @@ export { default as HeadsetIcon } from './HeadsetIcon';
 export { default as BugIcon } from './BugIcon';
 export { default as SunIcon } from './SunIcon';
 export { default as MoonIcon } from './MoonIcon';
+export { default as HatWizardIcon } from './HatWizardIcon';
+export { default as CauldronIcon } from './CauldronIcon';
+export { default as BrokenCauldronIcon } from './BrokenCauldronIcon';
