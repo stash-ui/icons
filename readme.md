@@ -30,8 +30,9 @@ For install documentation, check each one:
 
 ## Authors
 
-- Tiago Gerken ([@tgerken](https://twitter.com/tgerken)) - [Pingback](https://pingback.com)
+- Rachel Andrade ([@rchldesigner](https://twitter.com/rchldesigner)) - [Pingback](https://pingback.com)
 - Pedro Ladeira ([@pedrooladeira](https://twitter.com/pedrooladeira)) - [Pingback](https://pingback.com)
+- Tiago Gerken ([@tgerken](https://twitter.com/tgerken))
 
 ## License
 
