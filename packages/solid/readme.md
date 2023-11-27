@@ -7,8 +7,6 @@
 <a href="https://github.com/stash-ui/icons">GitHub</a> 
 <span> · </span>
 <a href="https://www.figma.com/file/X5DiJzGRQXCyEfBqocT235/%5BPb%5D-Icons-1.0-%E2%9C%85?node-id=0%3A1">Figma</a>
-<span> · </span>
-<a href="https://stash-ui.com/discord">Discord</a>
 </div>
 
 ## Install
@@ -44,8 +42,9 @@ const App = () => {
 
 ## Authors
 
-- Tiago Gerken ([@tgerken](https://twitter.com/tgerken)) - [Pingback](https://pingback.com)
+- Rachel Andrade ([@rchldesigner](https://twitter.com/rchldesigner)) - [Pingback](https://pingback.com)
 - Pedro Ladeira ([@pedrooladeira](https://twitter.com/pedrooladeira)) - [Pingback](https://pingback.com)
+- Tiago Gerken ([@tgerken](https://twitter.com/tgerken))
 
 ## License
 
