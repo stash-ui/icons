@@ -273,3 +273,6 @@ export { default as MoonIcon } from './MoonIcon';
 export { default as BullhornIcon } from './BullhornIcon';
 export { default as PaletteIcon } from './PaletteIcon';
 export { default as GiftIcon } from './GiftIcon';
+export { default as RocketIcon } from './RocketIcon';
+export { default as TvRetroIcon } from './TvRetroIcon';
+export { default as FlowIcon } from './FlowIcon';
