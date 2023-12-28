@@ -273,3 +273,6 @@ export { default as MoonIcon } from './MoonIcon';
 export { default as HatWizardIcon } from './HatWizardIcon';
 export { default as CauldronIcon } from './CauldronIcon';
 export { default as BrokenCauldronIcon } from './BrokenCauldronIcon';
+export { default as RocketIcon } from './RocketIcon';
+export { default as TvRetroIcon } from './TvRetroIcon';
+export { default as FlowIcon } from './FlowIcon';
