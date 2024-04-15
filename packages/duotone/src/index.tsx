@@ -285,3 +285,4 @@ export { default as BoxIcon } from './BoxIcon';
 export { default as BoxOpenIcon } from './BoxOpenIcon';
 export { default as InputTextIcon } from './InputTextIcon';
 export { default as DropdownIcon } from './DropdownIcon';
+export { default as Feed2Icon } from './Feed2Icon';
