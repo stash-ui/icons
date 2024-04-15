@@ -25,3 +25,4 @@ dist/
 # work in progress
 packages/generate-from-figma
 apps/website
+.npmrc
