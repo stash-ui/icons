@@ -286,3 +286,4 @@ export { default as BoxOpenIcon } from './BoxOpenIcon';
 export { default as InputTextIcon } from './InputTextIcon';
 export { default as DropdownIcon } from './DropdownIcon';
 export { default as PaletteIcon } from './PaletteIcon';
+export { default as CodeIcon } from './CodeIcon';
