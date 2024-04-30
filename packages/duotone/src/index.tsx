@@ -287,3 +287,4 @@ export { default as InputTextIcon } from './InputTextIcon';
 export { default as DropdownIcon } from './DropdownIcon';
 export { default as Feed2Icon } from './Feed2Icon';
 export { default as CodeIcon } from './CodeIcon';
+export { default as FunnelIcon } from './FunnelIcon';
