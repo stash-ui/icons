@@ -177,3 +177,5 @@ export { default as BoxOpenIcon } from './BoxOpenIcon';
 export { default as InputTextIcon } from './InputTextIcon';
 export { default as DropdownIcon } from './DropdownIcon';
 export { default as FunnelIcon } from './FunnelIcon';
+export { default as SpinnerIcon } from './SpinnerIcon';
+export { default as SidebarIcon } from './SidebarIcon';
