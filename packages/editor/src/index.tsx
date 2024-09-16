@@ -44,3 +44,4 @@ export { default as CodeBlockIcon } from './CodeBlockIcon';
 export { default as CTAIcon } from './CTAIcon';
 export { default as EmbedIcon } from './EmbedIcon';
 export { default as ImageWideIcon } from './ImageWideIcon';
+export { default as VariableIcon } from './VariableIcon';
