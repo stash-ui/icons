@@ -14,3 +14,7 @@ export { default as PersonIcon } from './PersonIcon';
 export { default as UserPlusIcon } from './UserPlusIcon';
 export { default as CheckIcon } from './CheckIcon';
 export { default as GlobeIcon } from './GlobeIcon';
+export { default as CreditCardIcon } from './CreditCardIcon';
+export { default as LifeRingIcon } from './LifeRingIcon';
+export { default as SignInIcon } from './SignInIcon';
+export { default as SignOutIcon } from './SignOutIcon';
