@@ -12,3 +12,4 @@ export { default as GiftIcon } from './GiftIcon';
 export { default as UserAvatarIcon } from './UserAvatarIcon';
 export { default as PersonIcon } from './PersonIcon';
 export { default as UserPlusIcon } from './UserPlusIcon';
+export { default as CheckIcon } from './CheckIcon';
