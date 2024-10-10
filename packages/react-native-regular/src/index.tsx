@@ -21,3 +21,4 @@ export { default as SignOutIcon } from './SignOutIcon';
 export { default as PencilIcon } from './PencilIcon';
 export { default as PencilWritingIcon } from './PencilWritingIcon';
 export { default as CogIcon } from './CogIcon';
+export { default as PlusIcon } from './PlusIcon';
