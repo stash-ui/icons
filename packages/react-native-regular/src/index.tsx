@@ -22,3 +22,7 @@ export { default as PencilIcon } from './PencilIcon';
 export { default as PencilWritingIcon } from './PencilWritingIcon';
 export { default as CogIcon } from './CogIcon';
 export { default as PlusIcon } from './PlusIcon';
+export { default as PaletteIcon } from './PaletteIcon';
+export { default as BellIcon } from './BellIcon';
+export { default as ShieldCheckIcon } from './ShieldCheckIcon';
+export { default as NewWindowPageIcon } from './NewWindowPageIcon';
