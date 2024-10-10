@@ -18,3 +18,5 @@ export { default as CreditCardIcon } from './CreditCardIcon';
 export { default as LifeRingIcon } from './LifeRingIcon';
 export { default as SignInIcon } from './SignInIcon';
 export { default as SignOutIcon } from './SignOutIcon';
+export { default as PencilIcon } from './PencilIcon';
+export { default as PencilWritingIcon } from './PencilWritingIcon';
