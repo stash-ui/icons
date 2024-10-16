@@ -26,3 +26,6 @@ export { default as PaletteIcon } from './PaletteIcon';
 export { default as BellIcon } from './BellIcon';
 export { default as ShieldCheckIcon } from './ShieldCheckIcon';
 export { default as NewWindowPageIcon } from './NewWindowPageIcon';
+export { default as SmartphoneIcon } from './SmartphoneIcon';
+export { default as MoonIcon } from './MoonIcon';
+export { default as SunIcon } from './SunIcon';
