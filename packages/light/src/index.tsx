@@ -293,3 +293,4 @@ export { default as SidebarIcon } from './SidebarIcon';
 export { default as ListRemovedIcon } from './ListRemovedIcon';
 export { default as KanbanIcon } from './KanbanIcon';
 export { default as UserUpdateIcon } from './UserUpdateIcon';
+export { default as OrderByIcon } from './OrderByIcon';
