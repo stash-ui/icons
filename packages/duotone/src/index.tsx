@@ -294,3 +294,6 @@ export { default as ListRemovedIcon } from './ListRemovedIcon';
 export { default as KanbanIcon } from './KanbanIcon';
 export { default as UserUpdateIcon } from './UserUpdateIcon';
 export { default as OrderByIcon } from './OrderByIcon';
+export { default as KanbanUpdateIcon } from './KanbanUpdateIcon';
+export { default as KanbanAddIcon } from './KanbanAddIcon';
+export { default as VariableIcon } from './VariableIcon';

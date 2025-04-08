@@ -180,3 +180,4 @@ export { default as FunnelIcon } from './FunnelIcon';
 export { default as SpinnerIcon } from './SpinnerIcon';
 export { default as SidebarIcon } from './SidebarIcon';
 export { default as KanbanIcon } from './KanbanIcon';
+export { default as VariableIcon } from './VariableIcon';
