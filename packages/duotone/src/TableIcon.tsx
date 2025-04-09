@@ -14,8 +14,8 @@ export const TableIcon = React.forwardRef<SVGSVGElement, IconProps>(
         ref={forwardedRef}
       >
         <path
-          fill-rule="evenodd"
-          clip-rule="evenodd"
+          fillRule="evenodd"
+          clipRule="evenodd"
           d="M3 7C3 5.34315 4.34315 4 6 4H18C19.6569 4 21 5.34315 21 7V17C21 18.6569 19.6569 20 18 20H6C4.34315 20 3 18.6569 3 17V7ZM6 5.5H18C18.8284 5.5 19.5 6.17157 19.5 7V8.5H4.5V7C4.5 6.17157 5.17157 5.5 6 5.5ZM19.5 10V17C19.5 17.8284 18.8284 18.5 18 18.5H6C5.17157 18.5 4.5 17.8284 4.5 17V10H19.5Z"
           fill={color}
         />
