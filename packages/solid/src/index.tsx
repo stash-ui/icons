@@ -193,3 +193,8 @@ export { default as HandshakeIcon } from './HandshakeIcon';
 export { default as PuzzleIcon } from './PuzzleIcon';
 export { default as KeyIcon } from './KeyIcon';
 export { default as ApiIcon } from './ApiIcon';
+export { default as RulesIcon } from './RulesIcon';
+export { default as StarAiIcon } from './StarAiIcon';
+export { default as StepIcon } from './StepIcon';
+export { default as CouponIcon } from './CouponIcon';
+export { default as FileCertificateIcon } from './FileCertificateIcon';
