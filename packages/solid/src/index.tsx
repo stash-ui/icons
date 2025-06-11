@@ -198,3 +198,7 @@ export { default as StarAiIcon } from './StarAiIcon';
 export { default as StepIcon } from './StepIcon';
 export { default as CouponIcon } from './CouponIcon';
 export { default as FileCertificateIcon } from './FileCertificateIcon';
+export { default as SocialGoogleIcon } from './SocialGoogleIcon';
+export { default as SocialInstagramIcon } from './SocialInstagramIcon';
+export { default as SocialLinkedInIcon } from './SocialLinkedInIcon';
+export { default as SocialXIcon } from './SocialXIcon';
