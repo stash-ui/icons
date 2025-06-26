@@ -318,3 +318,5 @@ export { default as AtomIcon } from './AtomIcon';
 export { default as StepIcon } from './StepIcon';
 export { default as CouponIcon } from './CouponIcon';
 export { default as FileCertificateIcon } from './FileCertificateIcon';
+export { default as GemIcon } from './GemIcon';
+export { default as BriefCaseIcon } from './BriefCaseIcon';
