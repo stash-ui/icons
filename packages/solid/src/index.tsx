@@ -204,3 +204,4 @@ export { default as SocialLinkedInIcon } from './SocialLinkedInIcon';
 export { default as SocialXIcon } from './SocialXIcon';
 export { default as GemIcon } from './GemIcon';
 export { default as BriefCaseIcon } from './BriefCaseIcon';
+export { default as CreditIcon } from './CreditIcon';

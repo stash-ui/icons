@@ -319,3 +319,4 @@ export { default as CouponIcon } from './CouponIcon';
 export { default as FileCertificateIcon } from './FileCertificateIcon';
 export { default as GemIcon } from './GemIcon';
 export { default as BriefCaseIcon } from './BriefCaseIcon';
+export { default as CreditIcon } from './CreditIcon';
