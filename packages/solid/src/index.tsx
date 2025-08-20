@@ -205,3 +205,5 @@ export { default as SocialXIcon } from './SocialXIcon';
 export { default as GemIcon } from './GemIcon';
 export { default as BriefCaseIcon } from './BriefCaseIcon';
 export { default as CreditIcon } from './CreditIcon';
+export { default as WebhookIcon } from './WebhookIcon';
+export { default as BrainIcon } from './BrainIcon';
