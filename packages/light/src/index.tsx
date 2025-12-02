@@ -323,3 +323,4 @@ export { default as BoltIcon } from './BoltIcon';
 export { default as CreditIcon } from './CreditIcon';
 export { default as WebhookIcon } from './WebhookIcon';
 export { default as BrainIcon } from './BrainIcon';
+export { default as BullhornIcon } from './BullhornIcon';
